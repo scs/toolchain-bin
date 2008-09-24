@@ -1,0 +1,22 @@
+= Toolchain for Blackfin DSP =
+
+== Downloading the Toolchain from Blackfin ==
+
+Do download the toolchain from Blackfin, go to the release web-site [0] and download the following files:
+
+- blackfin-toolchain-<release>.i386.tar.bz2
+- blackfin-toolchain-elf-gcc-<version>-<release>.i386.tar.bz2
+- blackfin-toolchain-uclibc-default-<release>.i386.tar.bz2
+
+Then, unpack them after removing the old toolchain and create a new commit.
+
+[0]: http://blackfin.uclinux.org/gf/project/toolchain/frs
+
+
+== Files in this Commit ==
+
+The following files were used to create this commit:
+
+http://blackfin.uclinux.org/gf/download/frsrelease/392/5087/blackfin-toolchain-08r1.5-14.i386.tar.bz2
+http://blackfin.uclinux.org/gf/download/frsrelease/392/5080/blackfin-toolchain-elf-gcc-4.1-08r1.5-14.i386.tar.bz2
+http://blackfin.uclinux.org/gf/download/frsrelease/392/5075/blackfin-toolchain-uclibc-default-08r1.5-14.i386.tar.bz2
