@@ -1,0 +1,1 @@
+cmd_/home/oscar/data/new_uclinux/toolchain/buildscript/kernel_build/usr/include/.check := perl /home/oscar/data/new_uclinux/uclinux-dist/linux-kernel/scripts/headers_check.pl /home/oscar/data/new_uclinux/toolchain/buildscript/kernel_build/usr/include blackfin ; touch /home/oscar/data/new_uclinux/toolchain/buildscript/kernel_build/usr/include/.check
